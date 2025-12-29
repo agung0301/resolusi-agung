@@ -1,10 +1,9 @@
 RENCANA BELAJAR AGUNG
 
 -Memperdalam HTML,CSS,JS
- *framework JS vue
--Belajar React JS 
- *Basic
- *Component
+  *Framework Js
+    ^Angular
+    ^React
 -Belajar API
   *REST API
   *Auth API
