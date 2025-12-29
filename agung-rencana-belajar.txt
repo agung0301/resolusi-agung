@@ -5,4 +5,8 @@ RENCANA BELAJAR AGUNG
     ^Angular
     ^React
 -Belajar API
+  *REST API
+  *Auth API
 -Belajar Node JS
+-database
+-testing & deployment
