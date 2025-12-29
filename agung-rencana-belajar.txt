@@ -2,6 +2,7 @@ RENCANA BELAJAR AGUNG
 
 -Memperdalam HTML,CSS,JS
 -Belajar React JS 
-  *Basic
+ *Basic
+ *Component
 -Belajar API
 -Belajar Node JS
