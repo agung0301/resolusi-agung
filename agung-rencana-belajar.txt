@@ -9,4 +9,5 @@ RENCANA BELAJAR AGUNG
   *REST API
   *Auth API
 -Belajar Node JS
+-database
 -testing & deployment
